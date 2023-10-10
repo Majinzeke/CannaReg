@@ -6,3 +6,6 @@ data class HumidityDevice(
     val humidityPercentage: Float,
     val humidityDayOfWeek: String,
 )
+
+
+
